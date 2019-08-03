@@ -18,4 +18,4 @@ angles.
 
 3. Use PCA from scikit learn and elbow plot to find the reduced number of dimensions (which covers more than 95% of the variance)
 
-Use Support Vector machines and use grid search (try C values - 0.01, 0.05, 0.5, 1 and kernal=linear, rbf) and find out the best hyper parameters and do cross validation to find the accuracy.
+TO DO : Use Support Vector machines and use grid search (try C values - 0.01, 0.05, 0.5, 1 and kernal=linear, rbf) and find out the best hyper parameters and do cross validation to find the accuracy.
